@@ -1,0 +1,9 @@
+{
+  "name": "EchoGuard",
+  "description": "AI-powered environmental awareness and pollution reporting application. See pollution, understand it, and generate official reports.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
